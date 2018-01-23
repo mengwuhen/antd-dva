@@ -20,7 +20,7 @@ function IndexPage() {
           <Menu.Item key="2">nav 2</Menu.Item>
           <Menu.Item key="3">nav 3</Menu.Item>
         </Menu>
-      </Header>
+      </Header> 
       <Layout>
         <Sider width={200} style={{ background: '#fff' }}>
           <Menu
