@@ -1,0 +1,10 @@
+
+#components-layout-demo-top-side-2 .logo {
+  width: 130px;
+  height: 40px;
+  background: rgba(0,0,0,.2);  
+  background-image: url('./../assets/logo.png') ;
+  background-repeat: no-repeat;
+  margin: 7px 28px 16px 0;
+  float: left;
+}
